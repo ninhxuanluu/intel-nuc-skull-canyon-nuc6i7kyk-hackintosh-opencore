@@ -2,4 +2,5 @@
 
 ![macOS-catalina](Resources/about-mac.png)
 
-Here are my EFI setting for Intel NUC
+This is EFI settings for Intel NUC Skull Cayon.
+I will update the instruction later.
