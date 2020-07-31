@@ -1,7 +1,2 @@
-GenSMBIOS/
 .DS_Store
-*.aml
-*.kext
 .idea
-iasl
-iasl.zip
